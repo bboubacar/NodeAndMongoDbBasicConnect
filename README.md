@@ -1,4 +1,4 @@
-# COnfigure Node and connect to atlas Mongodb database
+# Configure Node and connect to atlas Mongodb database
 
 ## How to run the project in local
 > First clone it by run this in to your terminal <br/>
