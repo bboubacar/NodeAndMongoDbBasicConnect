@@ -6,7 +6,7 @@ const Tasks = require('./models/tasks');
 var app = express();
 
 // server: initial greeting
-console.log('\nServer initialization ...\n');
+console.log('\nServer initialization...\n');
 
 mongoose.set('strictQuery', false);
 
