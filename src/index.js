@@ -1,9 +1,9 @@
-var express = require('express');
+const express = require('express');
 const mongoose = require('mongoose');
 const dotenv = require('dotenv');
 const Tasks = require('./models/tasks');
 
-var app = express();
+const app = express();
 
 // server: initial greeting
 console.log('\nServer initialization...\n');
